@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "../include/screen.h"
 #include "../include/ticket.h"
+#include "../include/food.h"
 
 int main(){
     char buy_ticket = show_screen(); 
