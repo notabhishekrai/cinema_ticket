@@ -25,6 +25,14 @@ Concepts used:
  
 
 This short project was developed by Abhishek Rai (me) to reinforce the learning of first semester of Bachelors in Computer Application, BCA 102 - Programming in C led by Instructor Mr. Basanta Chapagain.
+
+How to use:
+
+- Clone this repo
+- go to file "cinema_ticket"
+- open "cinema_ticket" in terminal and type following command (without "")
+    - "make"
+    - "./app" 
  
 
  
