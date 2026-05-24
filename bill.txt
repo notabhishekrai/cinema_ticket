@@ -1,7 +1,0 @@
-===== CINEMA RECEIPT =====
-
-This receipt is the confirmation of payment by abhishek@gmail.com.
-Movie: Lion King
-Ticket Total: Rs.500
-Food Total: Rs.1400
-Grand Total: Rs.2147.00
