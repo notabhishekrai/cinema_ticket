@@ -1,0 +1,4 @@
+===== CINEMA RECEIPT =====
+Ticket Total: Rs.500
+Food Total: Rs.680
+Grand Total: Rs.1333.40

@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include "../include/ticket.h"
 #include "../include/food.h"
-
+int ticket_count = 0, total_ticket_price, total_food_price = 0, net_total;
+float grand_total;
+char need_food;
 void ticket(){
-    int ticket_count = 0, total_ticket_price, total_food_price = 0, net_total;
-    float grand_total;
-    char need_food;
+    
     printf("\n| Ticket Price - Rs. 250 |\n");
     printf("Enter number of tickets: ");
     scanf("%d", &ticket_count);
